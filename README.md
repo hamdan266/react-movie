@@ -45,3 +45,20 @@ A modern movie discovery platform built with React, Vite, TMDB API, and Tailwind
 1. Clone the repository:
    ```bash
    git clone https://github.com/hamdan26/react-movie.git
+2. Navigate to the project directory:
+   ```bash
+   cd react-movie-web-based
+3. Install dependencies:
+   ```bash
+   npm install
+   #or
+   yarn install
+4. Create a .env file and add your TMDB API key:
+   ```bash
+   VITE_TMDB_API_KEY=your_api_key_here
+5. Start the development server:
+   ```bash
+   npm run dev
+6. Open your browser to:
+   ```bash
+   http://localhost:5173
